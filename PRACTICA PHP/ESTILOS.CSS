@@ -1,0 +1,31 @@
+*{
+    border-color: rgb(245, 82, 104);
+    border-style: solid;
+}
+body{
+    background-color: rgb(239, 85, 245);
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(163, 39, 221);
+}
+img{
+    justify-content: space-between;
+}
+#sech{
+    display: flex;
+}
+.imgh{
+    height: 50px;
+    width: 50px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 15px;
+    color: rgb(0, 0, 0);
+}
